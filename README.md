@@ -614,7 +614,7 @@ void assert_failed(uint8_t *file, uint32_t line) {
 }
 #endif /* USE_FULL_ASSERT */
 ```
-##Gestion d'erreur
+## Gestion d'erreur
 ```c
 /* USER CODE BEGIN Header */
 /**
